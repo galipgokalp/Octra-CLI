@@ -1,3 +1,5 @@
+<img width="692" height="442" alt="octra_investors" src="https://github.com/user-attachments/assets/95b5bd2c-0065-4a0f-b60c-9bbaa3960ba4" />
+
 ## Octra Testnet Katılım Rehberi
 
 Bu rehber, tarayıcıdan yapılan testlerden farklıdır. İşlemler terminal üzerinden, WSL ya da VPS üzerinde yapılır.
